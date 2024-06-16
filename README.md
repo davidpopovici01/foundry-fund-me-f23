@@ -1,3 +1,9 @@
+## About
+
+This is a crowd sourcing app that allows funders to send ETH to a smart contract.
+
+The owner can then withdraw funds at any time.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
